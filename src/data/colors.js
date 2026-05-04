@@ -1,0 +1,18 @@
+export const COLORS_DATA = [
+  { name: "Charcoal", hex: "#2B2B2B" },
+  { name: "Off White", hex: "#F4F4F2" },
+  { name: "Navy", hex: "#2F3A44" },
+  { name: "Deep Red", hex: "#C81F25" },
+  { name: "Lime Green", hex: "#8ED13F" },
+  { name: "Orange Red", hex: "#FF4A2A" },
+  { name: "Speckled Blue", hex: "#7F8FA3" },
+  { name: "Slate Purple", hex: "#4B4A63" },
+  { name: "Blush Pink", hex: "#E6D3D8" },
+  { name: "Periwinkle", hex: "#6A6CCF" },
+  { name: "Neon Yellow", hex: "#E6F000" },
+  { name: "Warm Beige", hex: "#CFC9C2" },
+  { name: "Coral Pink", hex: "#F0627A" },
+  { name: "Mint Green", hex: "#9FD5C0" },
+  { name: "Light Gray", hex: "#C9C9C7" },
+  { name: "Metallic Gray", hex: "#8A8A8A" },
+];
